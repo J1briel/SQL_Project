@@ -1,3 +1,13 @@
+/*
+In summary, this SQL project showcases the creation of a database table for North American cities and demonstrates 
+how to extract valuable information from this dataset. It covers various aspects, including querying cities by country, 
+ordering them geographically, and retrieving cities based on population, 
+ensuring a comprehensive exploration of the dataset's capabilities and data manipulation through SQL queries.
+
+
+*/
+
+
 Create table North_american_cities 
 (city varchar(50),
   country varchar(50),
